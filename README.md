@@ -100,5 +100,3 @@ This project develops an end-to-end machine learning pipeline to predict the pre
 - matplotlib, seaborn
 
 ---
-
-## 📂 Project Structure
